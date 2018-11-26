@@ -1,6 +1,6 @@
 import random
 target = random.randint(1, 100)
-print(target)
+
 
 still_playing = True
 while still_playing: 
